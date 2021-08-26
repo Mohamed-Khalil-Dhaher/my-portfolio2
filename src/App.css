@@ -1,0 +1,26 @@
+#home {
+  background-image: url("https://images.unsplash.com/photo-1573166364902-982ae58a27ae?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80");
+}
+
+#name {
+  color: rgb(128, 0, 64);
+  text-shadow: 8px 8px 15px red;
+}
+#desc {
+  color: black;
+  size: 300%;
+  text-shadow: 10px 10px 20px red;
+}
+
+#about {
+  background-color: hsla(50, 33%, 25%, 0.75);
+}
+#img {
+  border-radius: 8px;
+}
+#bio {
+  font-family: "Caflisch Script", "Adobe Poetica", Sanvito, cursive;
+  font-size: 150%;
+}
+
+
